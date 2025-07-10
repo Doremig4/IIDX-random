@@ -101,6 +101,10 @@ IIDX-random-main/
 
 ---
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Doremig4/IIDX-random&type=Date)](https://www.star-history.com/#Doremig4/IIDX-random&Date)
+
 
 <div align="center">
 
