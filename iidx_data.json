@@ -2979,6 +2979,48 @@
       "version": "26"
     },
     {
+      "name": "Bow shock!!",
+      "nomage": "地力A+",
+      "hard": "地力A+",
+      "version": "27"
+    },
+    {
+      "name": "Cross Fire",
+      "nomage": "地力A",
+      "hard": "地力A",
+      "version": "32"
+    },
+    {
+      "name": "グッバイ宣言[L]",
+      "nomage": "地力C",
+      "hard": "地力D",
+      "version": "32"
+    },
+    {
+      "name": "神っぽいな[L]",
+      "nomage": "地力C",
+      "hard": "地力B",
+      "version": "32"
+    },
+    {
+      "name": "MARLIN",
+      "nomage": "地力C",
+      "hard": "地力B",
+      "version": "32"
+    },
+    {
+      "name": "God Mind",
+      "nomage": "地力A+",
+      "hard": "地力A+",
+      "version": "32"
+    },
+    {
+      "name": "スキッテイエェエエェ!!!!",
+      "nomage": "None",
+      "hard": "地力S",
+      "version": "32"
+    },
+    {
       "name": "CONTRACT[A]",
       "nomage": "地力A+",
       "hard": "地力A+",
@@ -3540,3 +3582,4 @@
     }
   ]
 }
+
