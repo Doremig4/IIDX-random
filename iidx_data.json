@@ -793,12 +793,6 @@
       "version": "26"
     },
     {
-      "name": "God Mind",
-      "nomage": "미등록",
-      "hard": "미등록",
-      "version": "32"
-    },
-    {
       "name": "Godspeed",
       "nomage": "地力C",
       "hard": "地力B+",
@@ -3582,4 +3576,5 @@
     }
   ]
 }
+
 
